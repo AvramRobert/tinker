@@ -1,0 +1,23 @@
+*.class
+*.log
+
+# idea
+/.idea
+/.idea_modules
+*.iml
+*.ipr
+*.iws
+
+# eclipse
+/.classpath
+/.project
+/.settings
+
+# backup
+*.*~
+
+# logs
+/*.log
+
+# vim 
+.*.sw[a-p]
