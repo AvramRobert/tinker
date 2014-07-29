@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tinker</string>
+    <string name="search_logo">search_logo</string>
+    <string name="wait">Please wait while data is being gathered</string>
+</resources>
