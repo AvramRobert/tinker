@@ -197,8 +197,7 @@ public class ProcedureOld {
     }
 
     public void setType(String url) {
-        if (url.contains("name")) type = "person";
-        else type = "film";
+        type = ((url.contains("name")) ? "person": "film";
     }
 
     /**
